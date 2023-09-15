@@ -1,5 +1,5 @@
 {
   "name": "Hoymiles DTU Solar: Home Assistant Add-on",
-  "url": "https://git.hrc.ovh/sakrut/hoymiles-dtu-homeassistant-addon",
-  "maintainer": "Szymon Banaś <banny310@gmail.com>"
+  "url": https://github.com/sakrut/hoymiles-dtu-homeassistant-addon",
+  "maintainer": "Szymon Banaś <banny310@gmail.com>, Krystian Mikrut<sakrut@gmail.com>"
 }
