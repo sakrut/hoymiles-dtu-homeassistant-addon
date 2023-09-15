@@ -1,4 +1,4 @@
-
+⁹
 # Hoymiles DTU Solar Data Gateway Add-on
 
 An application to read Hoymiles Gateway Solar Data using direct communication with Hoymiles DTU
@@ -35,7 +35,7 @@ After that data is refreshed every minute in Home Assistant and native Hoymiles 
 
 ## Installation
 
-1. Copy this repository url https://github.com/banny310/hoymiles-dtu-homeassistant-addon
+1. Copy this repository url https://github.com/sakrut/hoymiles-dtu-homeassistant-addon
 2. Add as new repository in Home Assistant add-on store
 3. Install add-on
 4. Set DTU ip address and port in config tab
