@@ -56,6 +56,7 @@ dtu = {
     port = 10081
     watchdog_timeout = 300              # Restart connection to DTU when nothing is received from DTU in period of time (seconds)
                                         # Useable in passive mode because sometimes communication stalls
+    accepted_data_up_to_min = 5
 }
 mqtt = {
     host = 192.168.1.2
@@ -87,6 +88,7 @@ dtu:
     host: 192.168.88.129
     port: 10081
     watchdog_timeout: 600
+    accepted_data_up_to_min: 5
 ```
 
 ## Troubleshooting
