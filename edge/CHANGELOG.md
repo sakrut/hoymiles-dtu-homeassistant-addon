@@ -1,5 +1,6 @@
 # CHANGELOG
-
+## 0.9.9.6.1
+    - Fix [#2](https://github.com/sakrut/hoymiles-dtu-homeassistant-addon/issues/2)
 ## 0.9.8
     - automatic recovery from frame fragmentation
 

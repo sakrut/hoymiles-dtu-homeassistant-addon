@@ -2,7 +2,7 @@
   "name": "Hoymiles DTU Solar: Home Assistant Add-on",
   "description": "Get solar data using direct communication with Hoymiles DTU",
   "image": "sakrut/hoymiles-dtu-{arch}",
-  "version": "0.9.9.4",
+  "version": "0.9.9.6.1",
   "slug": "hoymiles-dtu",
   "url": "https://github.com/sakrut/hoymiles-dtu-homeassistant-addo",
   "arch": [
