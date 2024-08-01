@@ -4,7 +4,7 @@
   "image": "sakrut/hoymiles-dtu-{arch}",
   "version": "0.9.9.6.1",
   "slug": "hoymiles-dtu",
-  "url": "https://github.com/sakrut/hoymiles-dtu-homeassistant-addo",
+  "url": "https://github.com/sakrut/hoymiles-dtu-homeassistant-addon",
   "arch": [
     "aarch64",
     "amd64",
